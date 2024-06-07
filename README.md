@@ -7,9 +7,11 @@
   - npx sequelize-cli db:create
   - npx sequelize-cli db:migrate
   - npx sequelize-cli db:seed:all
-- Kondisi pada aplikasi docker desktop
-  ![image](https://github.com/lckydidn/FSWD-HW-11/assets/136577844/952d3cd1-08fa-4333-955a-10fcc5a64ebe)
-  ![image](https://github.com/lckydidn/FSWD-HW-11/assets/136577844/e1a8a55c-9fb9-400b-aa70-904cd21ce24e)
+
+  ## Kondisi pada aplikasi docker desktop
+  - ![image](https://github.com/lckydidn/FSWD-HW-11/assets/136577844/7f91121d-339e-4b59-a748-88646c7cf54b)
+  - ![image](https://github.com/lckydidn/FSWD-HW-11/assets/136577844/91a98d94-3201-4a93-97c5-5f60ed6d29d8)
+
 
 
   
