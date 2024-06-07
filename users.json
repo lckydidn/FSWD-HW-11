@@ -1,0 +1,30 @@
+[
+  {
+    "id": 102,
+    "email": "yangyang@admin.com",
+    "gender": "Male",
+    "password": "$2b$10$sLXOKfA74clN0jzjn8/sXeRHVZC58aS34TzDkSgZWkG4oOpKRfmXi",
+    "role": "Gamer"
+  },
+  {
+    "id": 103,
+    "email": "rover@admin.com",
+    "gender": "Male",
+    "password": "$2b$10$jaRUJYMsYyRBIAx6sJS3iuCoYbRu6TST1MWrRWqfMQmOWB55B0ftm",
+    "role": "Gamer"
+  },
+  {
+    "id": 105,
+    "email": "chixia@admin.com",
+    "gender": "Male",
+    "password": "$2b$10$g/7Yrhyq14pcVzZZkH6XHeALZEzoPPe7gSFe4Nmss1gK.d4kFiLja",
+    "role": "Gamer"
+  },
+  {
+    "id": 107,
+    "email": "calcaro@admin.com",
+    "gender": "Male",
+    "password": "$2b$10$2JEUwhDox3RlSpKo.2/KB.I/vrTQpNrPDHPFgQ/z5yhNTFgr0ZerO",
+    "role": "Tech"
+  }
+]
